@@ -1,5 +1,0 @@
-name: SpearElytra
-version: 1.0.0
-main: com.example.spearelytra.SpearElytraPlugin
-api-version: '26.3'
-description: Allows spear attacks against gliding players.
